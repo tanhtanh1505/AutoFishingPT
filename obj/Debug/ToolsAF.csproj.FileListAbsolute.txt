@@ -1,0 +1,13 @@
+D:\C#\ToolsAF\bin\Debug\ToolsAF.exe.config
+D:\C#\ToolsAF\bin\Debug\ToolsAF.exe
+D:\C#\ToolsAF\bin\Debug\ToolsAF.pdb
+D:\C#\ToolsAF\obj\Debug\ToolsAF.csprojAssemblyReference.cache
+D:\C#\ToolsAF\obj\Debug\ToolsAF.Properties.Resources.resources
+D:\C#\ToolsAF\obj\Debug\ToolsAF.csproj.GenerateResource.cache
+D:\C#\ToolsAF\obj\Debug\ToolsAF.csproj.CoreCompileInputs.cache
+D:\C#\ToolsAF\obj\Debug\ToolsAF.exe
+D:\C#\ToolsAF\obj\Debug\ToolsAF.pdb
+D:\C#\ToolsAF\bin\Debug\KAutoHelper.dll
+D:\C#\ToolsAF\bin\Debug\Emgu.CV.World.dll
+D:\C#\ToolsAF\obj\Debug\ToolsAF.csproj.CopyComplete
+D:\C#\ToolsAF\obj\Debug\ToolsAF.TAF.resources
